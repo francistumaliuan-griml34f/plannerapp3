@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="widget_desc">Your full weekly schedule, classes today, current class and incoming tasks. Tap the arrows to switch pages.</string>
+    <string name="widget_empty">Open the Planner app once to load your schedule.</string>
+</resources>
